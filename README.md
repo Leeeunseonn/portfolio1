@@ -1,2 +1,3 @@
 # portfolio1
-eunseon's AI portfolio
+eunseon's programming portfolio
+FNCSP
