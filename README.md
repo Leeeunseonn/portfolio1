@@ -1,3 +1,5 @@
-# portfolio1
+# portfolio
 eunseon's programming portfolio
-FNCSP
+1. FNCSP
+2. KUJOIN
+3. MSDS
